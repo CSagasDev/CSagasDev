@@ -1,7 +1,14 @@
-# Hola, soy Cristofer 👋
+<p align="center">
+  <img src="./assets/presentacion.svg" width="100%" alt="Cristofer Sagastume · Desarrollador Full Stack · Odoo Developer · Guatemala · DATO Systems Group">
+</p>
 
-Desarrollador Full Stack y Odoo Developer en Guatemala, con el pensum cerrado de Ingeniería en Sistemas.
-Hago aplicaciones web y móviles a la medida con **DATO Systems Group**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/csagastume-dev"><img src="./assets/boton-linkedin.svg" height="52" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:c.sagastume.dev@gmail.com"><img src="./assets/boton-correo.svg" height="52" alt="Correo"></a>
+</p>
+
+Hago aplicaciones web y móviles a la medida con **DATO Systems Group**. Ingeniería en Sistemas, pensum cerrado.
 
 ### 🚧 Ahora estoy construyendo
 
@@ -25,7 +32,3 @@ Hecha con NestJS, Ionic + Angular y PostgreSQL, y desplegada con Docker. *En con
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-### 📫 Contacto
-
-c.sagastume.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/csagastume-dev)
